@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: goodplaceintroduction
+Version: 1.0.0
+Summary: Create a basic python package.
+Home-page: https://github.com/Kapoorlabs-paris/goodplaceintroduction/
+Author: Varun Kapoor
+Author-email: randomaccessiblekapoor@gmail.com
+Classifier: Development Status :: 3 - Alpha
+Classifier: Natural Language :: English
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3.9
+Description-Content-Type: text/markdown
+
+# goodplaceintroduction
+Basic structure of a python package: Python course for developers

@@ -1,0 +1,10 @@
+README.md
+pyproject.toml
+setup.py
+goodplaceintroduction/__init__.py
+goodplaceintroduction/_version.py
+goodplaceintroduction.egg-info/PKG-INFO
+goodplaceintroduction.egg-info/SOURCES.txt
+goodplaceintroduction.egg-info/dependency_links.txt
+goodplaceintroduction.egg-info/requires.txt
+goodplaceintroduction.egg-info/top_level.txt
