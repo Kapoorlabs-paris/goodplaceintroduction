@@ -23,7 +23,7 @@ setup(
     long_description_content_type='text/markdown',
     install_requires=[
         
-        "simpleoneat",
+        "slimoneat",
     ],
     packages=setuptools.find_packages(),
     classifiers=[
