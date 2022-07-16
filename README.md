@@ -1,2 +1,2 @@
 # goodplaceintroduction
-Basic structure of a python package: Python course for developers
+Python course for AI developers: Lets create a release package structure
